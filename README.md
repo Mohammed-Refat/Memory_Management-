@@ -1,4 +1,4 @@
-# Memory Management Examples in C
+# Memory Management
 
 Welcome to the "Memory Management Examples in C" repository! This repository contains a collection of C code examples related to memory management techniques. The examples cover various aspects of memory management, including dynamic allocation, fault handling, heap management, and more.
 
